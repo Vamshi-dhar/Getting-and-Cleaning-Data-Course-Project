@@ -18,13 +18,13 @@ The experiments have been carried out with a group of 30 volunteers within an ag
   + activity_labels.txt  
 2. Selecting names having *mean* and *std* pattern into object.
 3. Cleaning feature names.
-4. extracting variables having *mean* and *std* pattern among all features.
+4. Extracting variables having *mean* and *std* pattern among all features.
 5. Combining train and test.
-6. assigning col names.
-7. assiging labels to activityl lables.
-8. creating Independent tidy data set with the average of each variable.
+6. Assigning col names.
+7. Assiging labels to activityl lables.
+8. Creating Independent tidy data set with the average of each variable.
 9. Apply mean function using dcast function.
-10. writing tidydata.
+10. Writing tidydata.
 
 
 ###  License:
